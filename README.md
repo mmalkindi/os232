@@ -1,2 +1,2 @@
 # os232
-Operating Systems | Semester Ganjil 2023/2024
+Operating Systems 2023-2 (Semester Ganjil 2023/2024)
