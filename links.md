@@ -2,7 +2,7 @@
 permalink: LINKS/
 ---
 
-# LINKS
+# LINKS / [os232]({{ site.baseurl }}/)
 
 ## Week 01
 1. [Vim Basics in 8 Minutes](https://www.youtube.com/watch?v=ggSyF1SVFr4) --- Intro to the Vi text editor. A solid video introducing new users the basics of vi such as: how to quit vim, basic commands (delete line, undo, redo, search, replace), how to enter insert mode and start typing.
