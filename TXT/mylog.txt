@@ -28,3 +28,11 @@ ZCZC W02 45 L09 Assignment in General
 ZCZC W02 20 L24 Scripting in general.
 ZCZC W02 20 L26 GnuPG, key-gen, encrypt/decrypt.
 ZCZC W02 30 L43 TXT/myrank.txt related, including peer review.
+ZCZC W03 35 L01 SCELE/Discord related
+ZCZC W03 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W03 30 L05 Quiz related including studying
+ZCZC W03 20 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W03 15 L12 Assignment #02
+ZCZC W03 30 L25 C-language including Make.
+ZCZC W03 20 L32 YouTube: watching OS related topics, etc.
+ZCZC W03 5 L41 TXT/mylog.txt related.
