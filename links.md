@@ -2,7 +2,9 @@
 permalink: LINKS/
 ---
 
-# LINKS / [os232]({{ site.baseurl }}/)
+# LINKS
+
+|| [W01](#week-01) || [W02](#week-02) || [W03](#week-03) ||
 
 ## Week 01
 1. [Vim Basics in 8 Minutes](https://www.youtube.com/watch?v=ggSyF1SVFr4) --- Intro to the Vi text editor. A solid video introducing new users the basics of vi such as: how to quit vim, basic commands (delete line, undo, redo, search, replace), how to enter insert mode and start typing.
@@ -12,3 +14,5 @@ permalink: LINKS/
 1. [Difference between PGP and GPG](https://www.tutorialspoint.com/difference-between-pgp-and-gpg) --- Showing the difference between PGP (Pretty Good Privacy) and GPG (GNU Privacy Guard). They have a similar sounding name, and I was wondering what are the differences between the two. 
 2. [SHA 256 Algorithm Explained by a Cyber Security Consultant](https://sectigostore.com/blog/sha-256-algorithm-explained-by-a-cyber-security-consultant/) --- A blog post written by a cyber security consultant explaining SHA256 (Secure Hash Algorithm 256). This article helped me better understand what the algorithm is and what it can be used for.
 
+## Week 03
+1. [Programming in the C language - [#3] Makefiles and Compiling](https://www.youtube.com/watch?v=zfuOcvYrhOs) --- An introduction to Makefiles, a file that defines set of tasks to be executed for the `make` command. This video helped me create a `Makefile` to compile my C program.
