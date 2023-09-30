@@ -21,3 +21,8 @@ permalink: LINKS/
 1. [Programming in the C language - [#3] Makefiles and Compiling](https://www.youtube.com/watch?v=zfuOcvYrhOs) --- An introduction to Makefiles, a file that defines set of tasks to be executed for the `make` command. This video helped me create a `Makefile` to compile my C program.
 1. [What is a RAID Array, RAID 0, 1, 5, 10. Advantages and Disadvantages of RAID 0. 1. 5 10](https://www.youtube.com/watch?v=MZfRxjEGRj4) --- Explains what RAID arrays are and the advantages and disadvantages of each RAID configuration. This video helped me understand RAID arrays better. 
 1. [Working with Lines](https://mkaz.blog/working-with-vim/lines) --- Showcases built-in functions and features related to lines in vim editor. I was looking for the second to last item in the article, as I was getting pretty annoyed by the weird up/down navigation on wrapped lines while editing this file.
+
+## Week 04
+
+1. []() --- ...
+1. []() --- ...
