@@ -39,3 +39,8 @@ ZCZC W03 10 L41 TXT/mylog.txt related.
 ZCZC W03 15 L32 YouTube: watching OS related topics, etc.
 ZCZC W03 10 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W03 30 L43 TXT/myrank.txt related, including peer review.
+ZCZC W04 20 L00 General, etc.
+ZCZC W04 50 L02 CLASSROOM/ZOOM meetings related
+ZCZC W04 50 L09 Assignment in General
+ZCZC W04 20 L22 Linux CLI including tar, etc.
+ZCZC W04 110 L70 Studying for other courses.
