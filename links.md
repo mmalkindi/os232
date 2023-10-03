@@ -24,4 +24,4 @@ permalink: LINKS/
 
 ## Week 04
 
-1. []() --- ...
+1. [you will never ask about pointers again after watching this video](https://www.youtube.com/watch?v=2ybLD6_2gKM) --- Explains what pointers are in a fun and engaging manner, with examples in C..
