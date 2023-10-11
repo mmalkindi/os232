@@ -27,5 +27,4 @@ permalink: LINKS/
 1. [you will never ask about pointers again after watching this video](https://www.youtube.com/watch?v=2ybLD6_2gKM) --- Explains what pointers are in a fun and engaging manner, with examples in C.
 
 ## Week 05
-1. []() --- ...
-2. []() --- ....
+1. [Virtual Memory: 3 What is Virtual Memory?](https://www.youtube.com/watch?v=5lFnKYCZT5o) --- So, what is it? Virtual memory adds a layer of indirection and this video explains what that means!
