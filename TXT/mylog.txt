@@ -53,3 +53,10 @@ ZCZC W05 40 L25 C-language including Make.
 ZCZC W05 20 L05 Quiz related including studying
 ZCZC W05 20 L43 TXT/myrank.txt related, including peer review.
 ZCZC W05 30 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W06 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W06 30 L05 Quiz related including studying
+ZCZC W06 30 L07 Demo related
+ZCZC W06 60 L09 Assignment in General
+ZCZC W06 20 L43 TXT/myrank.txt related, including peer review.
+ZCZC W06 5 L41 TXT/mylog.txt related
+ZCZC W06 40 L32 YouTube: watching OS related topics, etc.

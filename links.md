@@ -28,3 +28,7 @@ permalink: LINKS/
 
 ## Week 05
 1. [Virtual Memory: 3 What is Virtual Memory?](https://www.youtube.com/watch?v=5lFnKYCZT5o) --- So, what is it? Virtual memory adds a layer of indirection and this video explains what that means!
+
+## Week 06
+1. [fork() and exec() System Calls](https://www.youtube.com/watch?v=IFEFVXvjiHY) --- Fork? Exec? What are they? Well, this video is here to explain it! *TLDR: `fork()` creates a duplicate process (with a different PID), while `exec()` replaces the entire process and threads.*
+2. [Threading Issues [fork() & exec() System Calls]](https://www.youtube.com/watch?v=o2Sf0GHWpmk) --- Turns out, threading has its own set of issues that we have to keep in mind. This video explains the issue and offers a solution for the problem.
