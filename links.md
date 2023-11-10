@@ -32,3 +32,8 @@ permalink: LINKS/
 ## Week 06
 1. [fork() and exec() System Calls](https://www.youtube.com/watch?v=IFEFVXvjiHY) --- Fork? Exec? What are they? Well, this video is here to explain it! *TLDR: `fork()` creates a duplicate process (with a different PID), while `exec()` replaces the entire process and threads.*
 2. [Threading Issues [fork() & exec() System Calls]](https://www.youtube.com/watch?v=o2Sf0GHWpmk) --- Turns out, threading has its own set of issues that we have to keep in mind. This video explains the issue and offers a solution for the problem.
+
+## Week 07
+1. [Introduction to semaphores in C](https://www.youtube.com/watch?v=YSn8_XdGH7c) --- Just as the name suggests, semaphores in C are basically "flags" that can be waved (`post`) or wait for it to be waved (`wait`). This feature can help synchronizing a threaded program such that certain actions only kicks in when another has finished.
+
+
