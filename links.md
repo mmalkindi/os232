@@ -36,4 +36,6 @@ permalink: LINKS/
 ## Week 07
 1. [Introduction to semaphores in C](https://www.youtube.com/watch?v=YSn8_XdGH7c) --- Just as the name suggests, semaphores in C are basically "flags" that can be waved (`post`) or wait for it to be waved (`wait`). This feature can help synchronizing a threaded program such that certain actions only kicks in when another has finished.
 
+## Week 08
+1. []() --- ...
 
