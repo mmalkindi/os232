@@ -37,7 +37,4 @@ permalink: LINKS/
 1. [Introduction to semaphores in C](https://www.youtube.com/watch?v=YSn8_XdGH7c) --- Just as the name suggests, semaphores in C are basically "flags" that can be waved (`post`) or wait for it to be waved (`wait`). This feature can help synchronizing a threaded program such that certain actions only kicks in when another has finished.
 
 ## Week 08
-1. [7. Chapter 5: Compiling a Cross-Toolchain - How to build Linux From Scratch (LFS) 12.0](https://www.youtube.com/watch?v=uggsnHSELos) --- A video that helped me with this week's assignment, particularly during chapter 5 of the build process.
-
-## Week 09
-1. []() --- ... 
+1. [7. Chapter 5: Compiling a Cross-Toolchain - How to build Linux From Scratch (LFS) 12.0](https://www.youtube.com/watch?v=uggsnHSELos) --- A video that helped me with this week's assignment, particularly during chapter 5 of the build process. 
